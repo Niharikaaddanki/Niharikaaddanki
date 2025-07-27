@@ -3,9 +3,9 @@
 🎓 A B.Tech student passionate about merging theory and hands-on tech to solve real-world challenges.
 
 ## 🌟 About Me
-- 🔄 Currently exploring *ServiceNow, **Salesforce* (Admin & Developer roles)
-- 🤖 Learning *Advanced AI, **Machine Learning, and **Power Electronics Applications*
-- 💻 Interested in *software development*, CRM tools, and ITSM platforms
+- 🔄 Currently exploring **ServiceNow**, **Salesforce** (Admin & Developer roles)
+- 🤖 Learning *Advanced AI, **Machine Learning**, and **Power Electronics Applications**
+- 💻 Interested in **software development**, CRM tools, and ITSM platforms
 - 💡 Always curious to learn new technologies and apply them in meaningful ways
 
 ## 🔧 Tools & Technologies
