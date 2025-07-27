@@ -20,8 +20,7 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/niharika-addanki-48525725a)
 - 💻 [Trailhead](https://www.salesforce.com/trailblazer/addankisatyaniharika)
 - 🧠 [LeetCode](https://leetcode.com/u/Niharika_Addanki/)
-- ✉ *Email*: niharika.addanki369@gmail.com
-
+- ✉ [Email](niharika.addanki369@gmail.com)
 Available for collaboration and learning!
 
 ⭐“Stay curious. Keep learning. Build with purpose.”
