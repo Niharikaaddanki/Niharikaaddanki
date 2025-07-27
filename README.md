@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 - 🔄 Currently exploring **ServiceNow**, **Salesforce** (Admin & Developer roles)
-- 🤖 Learning *Advanced AI, **Machine Learning**, and **Power Electronics Applications**
+- 🤖 Learning **Advanced AI, Machine Learning**, and **Power Electronics Applications**
 - 💻 Interested in **software development**, CRM tools, and ITSM platforms
 - 💡 Always curious to learn new technologies and apply them in meaningful ways
 
